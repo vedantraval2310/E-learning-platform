@@ -17,3 +17,10 @@
 - Mobile Accessibility: Many e-learning platforms offer mobile applications, allowing learners to access course materials and learning resources on their smartphones or tablets. Mobile accessibility enhances the flexibility and convenience of learning.
 
 - Instructor Support: E-learning platforms facilitate instructor support through various channels, such as discussion forums, messaging systems, or scheduled office hours. Learners can seek clarification, ask questions, or receive guidance from instructors when needed.
+
+## Student login and Dashboard
+
+https://github.com/vedantraval2310/E-learning-platform/assets/76436755/ad76feb3-ac84-4921-808c-d98b1e864c56
+
+
+
