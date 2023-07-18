@@ -22,5 +22,11 @@
 
 https://github.com/vedantraval2310/E-learning-platform/assets/76436755/ad76feb3-ac84-4921-808c-d98b1e864c56
 
+## Courses , assessments and Certificate Generation on completetion 
 
+https://github.com/vedantraval2310/E-learning-platform/assets/76436755/233bcc5e-99e2-4209-9a19-89ce42008053
+
+## Faculty login and Dashboard
+
+https://github.com/vedantraval2310/E-learning-platform/assets/76436755/9032acf7-0332-4064-9a94-f889c3265f21
 
