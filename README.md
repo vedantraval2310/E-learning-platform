@@ -1,6 +1,6 @@
 # E-learning-platform
 
-#Features 
+# Features 
 
 - Course Catalog: An e-learning platform typically provides a comprehensive catalog of courses covering various subjects and disciplines. Users can browse and search for courses based on their interests and requirements.
 
